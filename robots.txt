@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chantrea-ny-dev-ogli.vercel.app/sitemap.xml
