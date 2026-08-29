@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://vercel.com/pnc2/riyati/observability.vercel.app/sitemap.xml
+Sitemap: https://riyati.vercel.app//sitemap.xml
